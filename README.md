@@ -1,6 +1,6 @@
 Algoritmos y Programación 1 - UNTREF
 
-# TDA: Ahorcado
+# POO: Ahorcado
 
 ## Enunciado
 
@@ -24,6 +24,5 @@ El `Ahorcado` debe proveer operaciones para:
    
 ## Solución
 
-### Implementaciones incrementales
 
 [ahorcado]: http://upload.wikimedia.org/wikipedia/commons/5/5f/Ahoracado_%28juego%29_-_2.gif "Ahorcado"
